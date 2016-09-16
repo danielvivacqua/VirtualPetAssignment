@@ -28,9 +28,7 @@ Make a virtual pet. Bonus points if it becomes a fad.
 
 ## Details
 
-Make a virtual pet program.
-
-![virtual pet](virtualpet.jpg)
+Make a virtual pet program. This is your version of a Tamagotchi or DigiPet!
 
 This might seem like a daunting task, but we can break it down.
 
