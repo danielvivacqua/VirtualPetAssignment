@@ -110,4 +110,4 @@ Your `VirtualPet` class could actually be usable with a completely different int
 
 Don't try to tackle everything at once! Break this project up into smaller chunks, and you will find that they are all manageable.
 
--  * [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
+-  * [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSfM2T4vydInMMWmuiAr0tdCe7h1gPMphhWfmyWI1OysuKcKIQ/viewform)*
